@@ -1,0 +1,108 @@
+[
+  {
+    "id": 0,
+    "type": 2020,
+    "hero": "./assets/ol.png",
+    "title": "TOKYO 2020 オリンピック特集",
+    "tag": "main",
+    "description": "オリンピック特集ページのデザイン業務と窓口業務を担当。特集内全体のデザインを取りまとめている。数十億PVを出すWebページのUXから実装までをこなしつつ、各サービス間で体験がバラバラにならないように調整している。",
+    "role": "Information-Design / UI-Design / Coding",
+    "date": "2019.10.02 - 2020"
+  },
+  {
+    "id": 1,
+    "type": 2018,
+    "hero": "./assets/bb.png",
+    "title": "スポナビ 野球ページのリデザイン",
+    "tag": "main",
+    "description": "野球競技のコーディングを担当。デザイナーの環境構築や実装、コーディング周りの相談窓口等を行った。デザインが刷新されることで、統一された体験をユーザーに提供できるようになる。",
+    "role": "Coding",
+    "date": "2018.10.12 - 2019.1.31"
+  },
+  {
+    "id": 2,
+    "type": 2019,
+    "hero": "./assets/keiba.png",
+    "title": "スポナビ 競馬ページのリデザイン",
+    "tag": "main",
+    "description": "競馬デザインの情報設計とUIデザインを担当。ペルソナ作成や環境構築、実装を行った。デザイン刷新されることで、統一された体験をユーザーに提供できるようになる。ページ数が両デバイスで100枚近くあり、その全ての情報設計とUIデザインを担当した。",
+    "role": "Information-Design / UI-Design",
+    "date": "2019.5.27 - 8.30"
+  },
+  {
+    "id": 3,
+    "type": 2019,
+    "hero": "./assets/ojt.png",
+    "title": "On the Job Training",
+    "tag": "main",
+    "description": "新卒デザイナーが1人で業務をこなせるように指導するメンターを担当。デザイン指導やコーディング指導、コーチングなどを実施。",
+    "role": "Trainer",
+    "date": "2019.07.01 - 09.30"
+  },
+  {
+    "id": 4,
+    "type": 2019,
+    "hero": "./assets/umami.png",
+    "title": "モジュール入稿ツール UMAMI",
+    "tag": "main",
+    "description": "複数の部署（サービス）が、サイト構造をもったページやモジュールを生成できる入稿ツールを作成。UIデザインと実装を担当。",
+    "role": "Information-Design / UI-Design",
+    "date": "2019.8.15 - 9.30"
+  },
+  {
+    "id": 5,
+    "type": 2018,
+    "hero": "./assets/app0.png",
+    "title": "Yahoo! コミュニティ",
+    "tag": "main",
+    "description": "Yahoo! コミュニティは「好きなことについて気の合う仲間と語り合うことができる」を提供するサービスです。Yahoo! JAPANアプリのフォロー機能を使い、テーマに関するコミュニティをユーザーへおすすめすることによって、同じ好きなテーマに関してコミュニケーションすることができます。クローズ済み。",
+    "role": "Information-Design / UI-Design / Coding",
+    "date": "2018.2.20 - 9.30"
+  },
+  {
+    "id": 6,
+    "type": 2019,
+    "hero": "./assets/kinta.png",
+    "title": "キンタイ管理アプリ",
+    "tag": "main",
+    "description": "アプリデザインとStoryboard上での実装を担当。デザイナーもiOSのフロントを修正できるようになることによって、開発とデザイナーのコミュニケーションコストを下げることができる。「スポナビキンタイ」は、部署内の勤怠情報一覧・管理できるアプリケーション。",
+    "role": "Information-Design / UI-Design",
+    "date": "2019.4.01 - 9.30"
+  },
+  {
+    "id": 7,
+    "type": 2018,
+    "hero": "./assets/amaz.png",
+    "title": "Amazon倉庫管理ツール",
+    "tag": "ui",
+    "description": "副業先でAmazon倉庫管理ツールのデザインとコーディングを担当。",
+    "role": "UI-Design / Coding",
+    "date": "2018.5.10 - 7.10"
+  },
+  {
+    "id": 8,
+    "type": 2018,
+    "hero": "./assets/des1.png",
+    "title": "Design System",
+    "tag": "ui",
+    "description": "デザイナー、開発者、プロダクトマネージャーなど、チーム全体で共有されている思想やコンポーネントライブラリなどを合わせたサービスの中核部分を作成。デザインとコードの両方において一貫性があり、動的で、再利用可能で維持可能。副業先でデザインシステムを作る。",
+    "role": "UI-Design / Coding",
+    "date": "2018.11.10 - 12.30"
+  },
+  {
+    "id": 9,
+    "type": 2018,
+    "hero": "./assets/ui0.png",
+    "title": "Weekly Design",
+    "tag": "ui",
+    "description": "ここ数年で流行っているUIデザインの練習。最近のUIデザインツールの実験やアニメーションプロトタイピングを早くする練習。",
+    "role": "UI-Design",
+    "date": "2018.5.10 - 7.20",
+    "detail": [
+      {
+        "link_url": "https://www.instagram.com/odashi_stock/?hl=ja",
+        "link_text": "INSTAGRAM"
+      }
+    ]
+  }
+]
